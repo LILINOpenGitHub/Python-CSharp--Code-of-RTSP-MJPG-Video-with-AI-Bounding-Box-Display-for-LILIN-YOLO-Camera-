@@ -5,9 +5,15 @@ LILIN 7 series cameras are using Ambarella CV series, CV22/CV25 VPU and running 
 <BR>
 For more information, visit [here](http://ai.meritlilin.com.tw:3380/) for Self-trained AI Yolo Camera.  For this sample code, you can learn:
 <BR>
-(1) Base64 encode 
-(2) CV22 for RTSP stream
-(3) Bounding boxes display for LILIN AI Yolo Camera
+## What can you learn from the Python code
+(1) Base64 encode <BR>
+(2) CV22 for RTSP stream <BR>
+(3) Bounding boxes display for LILIN AI Yolo Camera <BR>
 <BR>
 <BR>
+## The RTSP URL of LILIN 7 series camera
+(1) http://BASE64<username:password>@192.168.0.200:554/stream0 <BR>
+(2) http://BASE64<username:password>@192.168.0.200:554/stream1 <BR>
+(3) http://BASE64<username:password>@192.168.0.200:554/stream2 <BR>
+(4) http://BASE64<username:password>@192.168.0.200:554/stream2 <BR>
 
