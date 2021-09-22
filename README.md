@@ -2,8 +2,7 @@
 
 LILIN 7 series cameras are using Ambarella CV series, CV22/CV25 VPU and running Yolo for AI recognition.  The purpose of the Python code is to use OpenCV, CV2 library, for showing RTSP/MJPG video from LILIN IP camera via RTSP port.  It also connects to LILIN AI port at 8592 for AI bounding boxes and license plate recognition. 
 <BR>
-<BR>
-## What is Self-trained AI Camera
+## What is Self-trained AI Yolo Camera
 For more information, visit [here](http://ai.meritlilin.com.tw:3380/) for Self-trained AI Yolo Camera.  For this sample code, you can learn:
 <BR>
 ##Prerequisites
