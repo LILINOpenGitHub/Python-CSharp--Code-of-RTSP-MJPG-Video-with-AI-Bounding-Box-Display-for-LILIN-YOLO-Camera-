@@ -12,8 +12,9 @@ For more information, visit [here](http://ai.meritlilin.com.tw:3380/) for Self-t
 <BR>
 <BR>
 ## The RTSP URL of LILIN 7 series camera
-(1) http://BASE64<username:password>@192.168.0.200:554/stream0 <BR>
-(2) http://BASE64<username:password>@192.168.0.200:554/stream1 <BR>
-(3) http://BASE64<username:password>@192.168.0.200:554/stream2 <BR>
-(4) http://BASE64<username:password>@192.168.0.200:554/stream2 <BR>
+(1) http://username:password@192.168.0.200:554/stream0 <BR>
+(2) http://username:password@192.168.0.200:554/stream1 <BR>
+(3) http://username:password@192.168.0.200:554/stream2 <BR>
+(4) http://username:password@192.168.0.200:554/stream2 <BR>
 
+![image](https://github.com/LILINOpenGitHub/Python-Code-of-RTSP-MJPG-Video-with-AI-Bounding-Box-Display-for-LILIN-Yolo-Camera-/blob/main/image/image01.jpg)
