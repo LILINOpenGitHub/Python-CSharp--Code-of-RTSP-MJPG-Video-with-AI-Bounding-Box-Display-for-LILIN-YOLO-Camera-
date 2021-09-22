@@ -5,12 +5,12 @@ LILIN 7 series cameras are using Ambarella CV series, CV22/CV25 VPU and running 
 ## What is Self-trained AI Yolo Camera
 For more information, visit [here](http://ai.meritlilin.com.tw:3380/) for Self-trained AI Yolo Camera.  For this sample code, you can learn:
 <BR>
-##Prerequisites
-For this sample code, please prepare the following libraries
-import cv2
-import keyboard
-import socket
-import json
+## Prerequisites
+For this sample code, please prepare the following libraries <BR>
+import cv2 <BR>
+import keyboard <BR>
+import socket <BR>
+import json <BR>
 
 ## What can you learn from the Python code
 (1) Base64 encode <BR>
