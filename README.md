@@ -10,11 +10,10 @@ For more information, visit [here](http://ai.meritlilin.com.tw:3380/) for Self-t
 (2) CV22 for RTSP stream <BR>
 (3) Bounding boxes display for LILIN AI Yolo Camera <BR>
 <BR>
-<BR>
 ## The RTSP URL of LILIN 7 series camera
-(1) http://username:password@192.168.0.200:554/stream0 <BR>
-(2) http://username:password@192.168.0.200:554/stream1 <BR>
-(3) http://username:password@192.168.0.200:554/stream2 <BR>
-(4) http://username:password@192.168.0.200:554/stream2 <BR>
+(1) 4K H.264/H.265: http://username:password@192.168.0.200:554/stream0 <BR>
+(2) 480P H.264/H.265: http://username:password@192.168.0.200:554/stream1 <BR>
+(3) Reserved: http://username:password@192.168.0.200:554/stream2 <BR>
+(4) MJPG: http://username:password@192.168.0.200:554/stream2 <BR>
 
 ![image](https://github.com/LILINOpenGitHub/Python-Code-of-RTSP-MJPG-Video-with-AI-Bounding-Box-Display-for-LILIN-Yolo-Camera-/blob/main/image/image01.jpg)
