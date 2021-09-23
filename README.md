@@ -18,9 +18,9 @@ import json <BR>
 (3) Bounding boxes display for LILIN AI Yolo Camera <BR>
 <BR>
 ## How to run the demo code
-### USA license plate recognition on AI Yolo Camera
-![image](https://github.com/LILINOpenGitHub/Python-Code-of-RTSP-MJPG-Video-with-AI-Bounding-Box-Display-for-LILIN-Yolo-Camera-/blob/main/image/person_test.gif)
 ### Yolo V3 Tiny on AI Yolo Camera
+![image](https://github.com/LILINOpenGitHub/Python-Code-of-RTSP-MJPG-Video-with-AI-Bounding-Box-Display-for-LILIN-Yolo-Camera-/blob/main/image/person_test.gif)
+### USA license plate recognition on AI Yolo Camera
 ![image](https://github.com/LILINOpenGitHub/Python-Code-of-RTSP-MJPG-Video-with-AI-Bounding-Box-Display-for-LILIN-Yolo-Camera-/blob/main/image/plate_test_2.gif)
 ## The RTSP URL of LILIN 7 series camera
 (1) 4K H.264/H.265: http://username:password@192.168.0.200:554/stream0 <BR>
