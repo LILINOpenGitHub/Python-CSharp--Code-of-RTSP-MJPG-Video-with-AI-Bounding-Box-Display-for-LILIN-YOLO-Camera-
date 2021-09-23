@@ -17,6 +17,9 @@ import json <BR>
 (2) CV22 for RTSP stream <BR>
 (3) Bounding boxes display for LILIN AI Yolo Camera <BR>
 <BR>
+## How to run the demo code
+![image](https://github.com/LILINOpenGitHub/Python-Code-of-RTSP-MJPG-Video-with-AI-Bounding-Box-Display-for-LILIN-Yolo-Camera-/blob/main/image/person_test.gif)
+![image](https://github.com/LILINOpenGitHub/Python-Code-of-RTSP-MJPG-Video-with-AI-Bounding-Box-Display-for-LILIN-Yolo-Camera-/blob/main/image/plate_test_2.gif)
 ## The RTSP URL of LILIN 7 series camera
 (1) 4K H.264/H.265: http://username:password@192.168.0.200:554/stream0 <BR>
 (2) 480P H.264/H.265: http://username:password@192.168.0.200:554/stream1 <BR>
