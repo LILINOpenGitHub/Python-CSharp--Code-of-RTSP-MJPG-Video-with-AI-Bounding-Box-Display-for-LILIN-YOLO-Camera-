@@ -6,7 +6,7 @@ LILIN 7 series cameras are using Ambarella CV series, CV22/CV25 VPU and running 
 For more information, visit [here](http://ai.meritlilin.com.tw:3380/) for Self-trained AI Yolo Camera.  For this sample code, you can learn:
 <BR>
 ## Prerequisites
-For this sample code, please prepare the following libraries <BR>
+For this Python sample code, please prepare the following libraries <BR>
 import cv2 <BR>
 import keyboard <BR>
 import socket <BR>
@@ -19,10 +19,12 @@ import json <BR>
 <BR>
 ## How to run the demo code
 ### Yolo V3 Tiny on AI Yolo Camera
-Type python [camera.py](https://github.com/LILINOpenGitHub/Python-Code-of-RTSP-MJPG-Video-with-AI-Bounding-Box-Display-for-LILIN-Yolo-Camera-/blob/main/Python/camera.py)
+Type python [camera.py](https://github.com/LILINOpenGitHub/Python-Code-of-RTSP-MJPG-Video-with-AI-Bounding-Box-Display-for-LILIN-Yolo-Camera-/blob/main/Python/camera.py) in command prompt.
+<BR>
 ![image](https://github.com/LILINOpenGitHub/Python-Code-of-RTSP-MJPG-Video-with-AI-Bounding-Box-Display-for-LILIN-Yolo-Camera-/blob/main/image/person_test.gif)
 ### USA license plate recognition on AI Yolo Camera
-Type python [camera.py](https://github.com/LILINOpenGitHub/Python-Code-of-RTSP-MJPG-Video-with-AI-Bounding-Box-Display-for-LILIN-Yolo-Camera-/blob/main/Python/camera.py)
+Type python [camera.py](https://github.com/LILINOpenGitHub/Python-Code-of-RTSP-MJPG-Video-with-AI-Bounding-Box-Display-for-LILIN-Yolo-Camera-/blob/main/Python/camera.py) in command prompt.
+<BR>
 ![image](https://github.com/LILINOpenGitHub/Python-Code-of-RTSP-MJPG-Video-with-AI-Bounding-Box-Display-for-LILIN-Yolo-Camera-/blob/main/image/plate_test_2.gif)
 ## The RTSP URL of LILIN 7 series camera
 (1) 4K H.264/H.265: http://username:password@192.168.0.200:554/stream0 <BR>
