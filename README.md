@@ -7,11 +7,11 @@ For more information, visit [here](http://ai.meritlilin.com.tw:3380/) for Self-t
 <BR>
 ## Prerequisites
 For this Python sample code, please prepare the following libraries <BR>
-import cv2 <BR>
+import cv2 4.4.0 <BR>
 import keyboard <BR>
 import socket <BR>
 import json <BR>
-
+Ubuntu-20.04.1 <BR>
 ## What can you learn from the Python code
 (1) Base64 encode <BR>
 (2) CV22 for RTSP stream <BR>
