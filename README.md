@@ -28,6 +28,12 @@ Type python [camera.py](https://github.com/LILINOpenGitHub/Python-Code-of-RTSP-M
 <BR>
 <BR>
 ![image](https://github.com/LILINOpenGitHub/Python-Code-of-RTSP-MJPG-Video-with-AI-Bounding-Box-Display-for-LILIN-Yolo-Camera-/blob/main/image/plate_test_2.gif)
+
+## C# Code of RTSP/MJPG Video with AI Bounding Box Display for LILIN YOLO Camera
+Visit the C# code [here](https://github.com/LILINOpenGitHub/Python-CSharp--Code-of-RTSP-MJPG-Video-with-AI-Bounding-Box-Display-for-LILIN-Yolo-Camera-/blob/main/C%23/SDK_CSharp_test/Form1.cs).
+ 
+![image](https://github.com/LILINOpenGitHub/Python-CSharp--Code-of-RTSP-MJPG-Video-with-AI-Bounding-Box-Display-for-LILIN-Yolo-Camera-/blob/main/image/nvrrtsp.gif)
+
 ## The RTSP URL of LILIN 7 series camera
 (1) 4K H.264/H.265: http://username:password@192.168.0.200:554/stream0 <BR>
 (2) 480P H.264/H.265: http://username:password@192.168.0.200:554/stream1 <BR>
@@ -36,7 +42,4 @@ Type python [camera.py](https://github.com/LILINOpenGitHub/Python-Code-of-RTSP-M
 
 ![image](https://github.com/LILINOpenGitHub/Python-Code-of-RTSP-MJPG-Video-with-AI-Bounding-Box-Display-for-LILIN-Yolo-Camera-/blob/main/image/image01.jpg)
   
-## C# Code
-Visit the C# code [here](https://github.com/LILINOpenGitHub/Python-CSharp--Code-of-RTSP-MJPG-Video-with-AI-Bounding-Box-Display-for-LILIN-Yolo-Camera-/blob/main/C%23/SDK_CSharp_test/Form1.cs).
- 
-![image](https://github.com/LILINOpenGitHub/Python-CSharp--Code-of-RTSP-MJPG-Video-with-AI-Bounding-Box-Display-for-LILIN-Yolo-Camera-/blob/main/image/nvrrtsp.gif)
+
