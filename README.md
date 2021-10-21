@@ -13,8 +13,7 @@ import socket <BR>
 import json <BR>
 Ubuntu-20.04.1 <BR>
 
-For this C# sample code, please prepare the following libraries <BR>
-[EnguCV](https://github.com/emgucv/emgucv)
+For this C# sample code, please prepare the following libraries [EnguCV](https://github.com/emgucv/emgucv)
 
 ## What can you learn from the Python code
 (1) Base64 encode <BR>
