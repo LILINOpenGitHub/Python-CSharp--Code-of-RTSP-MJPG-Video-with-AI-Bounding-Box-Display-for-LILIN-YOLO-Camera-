@@ -17,7 +17,7 @@ For this C# sample code, please prepare the following libraries [EnguCV](https:/
 
 ## What can you learn from the Python code
 (1) Base64 encode <BR>
-(2) CV22 for RTSP stream <BR>
+(2) RTSP stream display for IP camera <BR>
 (3) Bounding boxes display for LILIN AI YOLO Camera <BR>
 <BR>
 ## How to run the demo code
