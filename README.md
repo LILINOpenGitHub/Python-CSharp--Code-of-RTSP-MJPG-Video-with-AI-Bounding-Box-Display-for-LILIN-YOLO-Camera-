@@ -21,7 +21,7 @@ For this C# sample code, please prepare the following libraries [EnguCV](https:/
 (3) Bounding boxes display for LILIN AI YOLO Camera <BR>
 <BR>
 ## How to run the demo code
-### YOLO V3 Tiny on AI YOLO Camera
+### YOLO V3 Tiny on AI YOLO camera
 Type python [camera.py](https://github.com/LILINOpenGitHub/Python-Code-of-RTSP-MJPG-Video-with-AI-Bounding-Box-Display-for-LILIN-YOLO-Camera-/blob/main/Python/camera.py) in command prompt.
 <BR>
 <BR>
