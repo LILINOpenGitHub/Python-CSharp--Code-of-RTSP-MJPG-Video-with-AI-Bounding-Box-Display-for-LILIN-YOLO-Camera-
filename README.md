@@ -35,3 +35,6 @@ Type python [camera.py](https://github.com/LILINOpenGitHub/Python-Code-of-RTSP-M
 (4) MJPG: http://username:password@192.168.0.200:554/stream2 <BR>
 
 ![image](https://github.com/LILINOpenGitHub/Python-Code-of-RTSP-MJPG-Video-with-AI-Bounding-Box-Display-for-LILIN-Yolo-Camera-/blob/main/image/image01.jpg)
+  
+##C# Code ##
+![image](https://github.com/LILINOpenGitHub/Python-CSharp--Code-of-RTSP-MJPG-Video-with-AI-Bounding-Box-Display-for-LILIN-Yolo-Camera-/blob/main/image/nvrrtsp.gif)
