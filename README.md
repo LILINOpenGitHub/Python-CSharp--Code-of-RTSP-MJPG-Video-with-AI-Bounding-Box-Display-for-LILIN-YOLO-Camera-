@@ -32,9 +32,8 @@ Type python [camera.py](https://github.com/LILINOpenGitHub/Python-Code-of-RTSP-M
 
 ## C# code of RTSP/MJPG video with AI bounding box display for LILIN YOLO camera
 ## Prerequisites
-Microsoft Visual Studio 2019
+Microsoft Visual Studio 2019 <BR>
 For this C# sample code, please prepare the following libraries [EnguCV](https://github.com/emgucv/emgucv)
-[Emgu CV] (https://github.com/emgucv)
 <BR>
 Visit the C# code [here](https://github.com/LILINOpenGitHub/Python-CSharp--Code-of-RTSP-MJPG-Video-with-AI-Bounding-Box-Display-for-LILIN-YOLO-Camera-/blob/main/C%23/SDK_CSharp_test/Form1.cs).
  
