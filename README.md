@@ -46,5 +46,11 @@ Visit the C# code [here](https://github.com/LILINOpenGitHub/Python-CSharp--Code-
 (4) MJPG: http://username:password@192.168.0.200:554/stream2 <BR>
 
 ![image](https://github.com/LILINOpenGitHub/Python-Code-of-RTSP-MJPG-Video-with-AI-Bounding-Box-Display-for-LILIN-Yolo-Camera-/blob/main/image/image01.jpg)
+ 
+ ## How to use CURL for bounding box
+ CURL is a HTTP client that is a good tool runing in Windows and Linux.
+ 
+ curl -k -X GET  -u "admin:Pass1234" -v http://admin:Pass1234@192.168.0.200:8592/getalarmmotion
+ 
   
 
