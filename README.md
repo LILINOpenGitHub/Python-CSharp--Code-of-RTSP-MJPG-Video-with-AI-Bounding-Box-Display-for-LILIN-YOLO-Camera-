@@ -54,7 +54,7 @@ Visit the C# code [here](https://github.com/LILINOpenGitHub/Python-CSharp--Code-
  
  ![image](https://github.com/LILINOpenGitHub/Python-CSharp--Code-of-RTSP-MJPG-Video-with-AI-Bounding-Box-Display-for-LILIN-YOLO-Camera-/blob/main/image/curl.jpg)
  
-curl [example in C language]](https://github.com/LILINOpenGitHub/Python-CSharp--Code-of-RTSP-MJPG-Video-with-AI-Bounding-Box-Display-for-LILIN-YOLO-Camera-/blob/main/c/curl_example.c).
+curl [example in C language](https://github.com/LILINOpenGitHub/Python-CSharp--Code-of-RTSP-MJPG-Video-with-AI-Bounding-Box-Display-for-LILIN-YOLO-Camera-/blob/main/c/curl_example.c).
  
   
 
