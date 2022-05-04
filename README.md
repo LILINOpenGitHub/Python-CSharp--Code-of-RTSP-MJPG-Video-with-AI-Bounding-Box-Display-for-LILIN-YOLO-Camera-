@@ -52,5 +52,7 @@ Visit the C# code [here](https://github.com/LILINOpenGitHub/Python-CSharp--Code-
  
  curl -k -X GET  -u "admin:Pass1234" -v http://admin:Pass1234@192.168.0.200:8592/getalarmmotion
  
+ ![image](https://github.com/LILINOpenGitHub/Python-CSharp--Code-of-RTSP-MJPG-Video-with-AI-Bounding-Box-Display-for-LILIN-YOLO-Camera-/blob/main/image/curl.jpg)
+ 
   
 
