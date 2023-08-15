@@ -1,6 +1,6 @@
 # Python & CSharp Code of RTSP/MJPG Video with AI Bounding Box Display for LILIN YOLO Camera
 
-LILIN 7 series cameras are using Ambarella CV series, CV22/CV25 VPU and running YOLO for AI recognition.  The purpose of the Python & CSharp code is to use OpenCV, CV2 library, for showing RTSP/MJPG video from LILIN IP camera via RTSP port.  It also connects to LILIN AI port at 8592 for AI bounding boxes and license plate recognition. 
+LILIN 7 series, 6 series, and V series are running YOLO for AI recognition.  The purpose of the Python & CSharp code is to use OpenCV, CV2 library, for showing RTSP/MJPG video from LILIN IP camera via RTSP port.  It also connects to LILIN AI port at 8592 for AI bounding boxes and license plate recognition. 
 <BR>
 ## What is Self-trained AI YOLO Camera
 For more information, visit [here](https://ai.meritlilin.com.tw/) for Self-trained AI YOLO Camera.  
@@ -39,7 +39,7 @@ Visit the C# code [here](https://github.com/LILINOpenGitHub/Python-CSharp--Code-
  
 ![image](https://github.com/LILINOpenGitHub/Python-CSharp--Code-of-RTSP-MJPG-Video-with-AI-Bounding-Box-Display-for-LILIN-YOLO-Camera-/blob/main/image/nvrrtsp.gif)
 
-## The RTSP URL of LILIN 7 series camera
+## The RTSP URL of LILIN 7, 6, and V series camera
 (1) 4K H.264/H.265: http://username:password@192.168.0.200:554/stream0 <BR>
 (2) 480P H.264/H.265: http://username:password@192.168.0.200:554/stream1 <BR>
 (3) Reserved: http://username:password@192.168.0.200:554/stream2 <BR>
