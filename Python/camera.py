@@ -20,9 +20,7 @@ i_width = 352
 i_height = 240
 i_scaling = 2 # 2x
 open_rtsp = True
-
-def OnMouseAction(event,x,y,flags,param):
-    print("move windows")
+recv_buffer_size = 8192 * 10
 
 schema = {
    "AiEngine":[
@@ -47,6 +45,9 @@ schema = {
    "Count":0
 }
 
+def OnMouseAction(event,x,y,flags,param):
+    print("move windows")
+
 def work_with_captured_video(camera, client_socket):
     global open_rtsp, schema
     while True:
@@ -54,16 +55,22 @@ def work_with_captured_video(camera, client_socket):
         if not ret:
             print("Camera is disconnected!")
             camera.release()
-            return False
+            break
         else:
-            recv = client_socket.recv(2048)  #Specify buffer
-            recv = recv.decode().split('\n')[5] #bounding box
-            Json_data = json.loads(recv) #Get the JSON data from /getalarmmotion CGI
+            recv = client_socket.recv(recv_buffer_size)  #Specify buffer
+            try:
+                recv = recv.decode().split('\n')[5] #bounding box
+                Json_data = json.loads(recv) #Get the JSON data from /getalarmmotion CGI
+            except:
+                print('ERROR : recv data incomplete pass\n')
+                # print(recv)
+                continue
             
             if validate(instance=Json_data, schema=schema): #Check JSON data format
                 print('ERROR : Json data format error!\n')
                 print(Json_data)
                 break
+            
             print(Json_data)
 
             if len(Json_data["AiEngine"]) != 0: #Find AiEngine token
@@ -139,3 +146,4 @@ while open_rtsp:
 
 cap.release()
 cv2.destroyAllWindows()
+
